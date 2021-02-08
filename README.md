@@ -1,9 +1,9 @@
 # Windows-Server 2019
-### R.A.I.D
-
-Beim initialen Boot das Raid-Konfiguration ausführen
 
 ![](https://github.com/AFBB-ZQ-FI18/Windows-Server/blob/main/w19-setup.png)
+
+### R.A.I.D
+Beim initialen Boot das Raid-Konfiguration ausführen
 
 ### Basis Konfiguration Server
 1. Serverbetriebssystem installieren
