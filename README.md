@@ -20,8 +20,8 @@ Nach der Installation der Features müssen die Konfigurationen angepasst werden.
 2. Gesamtstrukturfunktionsebene: Gibt an in welcher Version das Active Directory installiert wird
 3. Domänenfunktionsebene: Gibt an in welcher Version das Active Directory installiert wird für die Domäne
 4. Domänencontrollerfunktionen: 
-- DNS-Server
-- Globaler Katalog
+> DNS-Server
+> Globaler Katalog`
 5. Kennwort für den Verzeichnis-Wiederherstellungsmodus
 
 ##### DNS-Server
@@ -47,13 +47,13 @@ Nach der Installation der Features müssen die Konfigurationen angepasst werden.
 1. Tools > Active Directory-Benutzer und Computer
 2. Sicherheits-Gruppen: 
 Fi18
-- FI-Systemintegration
-- FI-Anwendungsentwicklung
+> FI-Systemintegration
+> FI-Anwendungsentwicklung
 
 3. Organisationseinheiten:
-- Benutzer_FI-AE
-- Benutzer_FI-SI
+> Benutzer_FI-AE
+> Benutzer_FI-SI
 
 4. Benutzer 
-- Kennwort und Name vergeben
+> Kennwort und Name vergeben
 
