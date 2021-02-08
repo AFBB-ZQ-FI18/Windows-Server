@@ -3,7 +3,7 @@
 
 Beim initialen Boot das Raid-Konfiguration ausführen
 
-![](https://github.com/AFBB-ZQ-FI18/Windows-Server/w19-setup.jpg)
+![](https://github.com/AFBB-ZQ-FI18/Windows-Server/blob/main/w19-setup.png)
 
 ### Basis Konfiguration Server
 1. Serverbetriebssystem installieren
