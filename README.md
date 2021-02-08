@@ -3,6 +3,8 @@
 
 Beim initialen Boot das Raid-Konfiguration ausführen
 
+![](https://github.com/AFBB-ZQ-FI18/Windows-Server/w19-setup.jpg)
+
 ### Basis Konfiguration Server
 1. Serverbetriebssystem installieren
 2. Administrator-Kennwort ändern
